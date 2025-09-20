@@ -16,7 +16,8 @@ The high level block of code is fed into the SOC integration using GPIO's
 
 Then we come up with the Physical design process step which include floorplan,placement,clock tree synthesis and routing.So with that end up with the RTL to GDS Flow
 and at the end of the Physical design life cycle.
-![image alt]()
+
+![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/Screenshot%202025-09-20%20140348.png)
 
 Then the further process is as follws:- GDSII -> DRC/LVS Checks -> fabrication    (tapeout to tapein)
 ![image alt]()
