@@ -11,6 +11,7 @@ And the IP's is devided into two parts one is macros Which is synthesizable in n
  ![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/Screenshot%202025-09-20%20140315.png)
  
 The high level block of code is fed into the SOC integration using GPIO's
+
 ![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/Screenshot%202025-09-20%20140332.png)
 
 Then we come up with the Physical design process step which include floorplan,placement,clock tree synthesis and routing.So with that end up with the RTL to GDS Flow
