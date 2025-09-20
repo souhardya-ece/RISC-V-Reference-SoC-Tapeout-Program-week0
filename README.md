@@ -1,4 +1,4 @@
-hve # RISC-V-Reference-SoC-Tapeout-Program-week0
+
 First to built an application or to make an chip .We have to write the code in the high level language like C with the proper functinality for verification purpose we have to write the test bench after that we model that bolck of code and get some  output. This is called chip  modelling.
 
 The next is that whatever code that we have written in c is converted into haedware descriptive language like verilog.(RTL architechture)
