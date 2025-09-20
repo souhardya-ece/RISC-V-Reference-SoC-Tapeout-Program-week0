@@ -20,5 +20,6 @@ and at the end of the Physical design life cycle.
 ![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/Screenshot%202025-09-20%20140348.png)
 
 Then the further process is as follws:- GDSII -> DRC/LVS Checks -> fabrication    (tapeout to tapein)
-![image alt]()
+
+![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/Screenshot%202025-09-20%20140421.png)
 
