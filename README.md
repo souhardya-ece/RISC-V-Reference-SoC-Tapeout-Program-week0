@@ -27,8 +27,7 @@ Then the further process is as follws:- GDSII -> DRC/LVS Checks -> fabrication  
 ![image alt](https://github.com/souhardya-ece/RISC-V-Reference-SoC-Tapeout-Program-week0/blob/main/images/O5.png)
 
 Here one thing that need to be care of is that in each step functionality and specification is same means O1=O2=O3=O4=O5
-
-Then after the fabrication we use that chip in microconreoller.
+Then after the fabrication we use that chip in microconreoller that can be used in various application.
 
 ## Tools Installation:-
 
