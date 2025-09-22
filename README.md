@@ -3,7 +3,7 @@ First to built an application or to make an chip .We have to write the code in t
 
   ![image alt]()
 
-The next is that whatever code that we have written in c is converted into haedware descriptive language like verilog.(RTL architechture)
+The next is that whatever code that we have written in c is converted into hardware descriptive language like verilog.(RTL architechture)
 This RTL is sub devided into two parts one is processor and the another one is perepheral/IP's.
 This precessor is gate level netlist. Which is synthesizable in nature.
 And the IP's is devided into two parts one is macros Which is synthesizable in nature and another one is analog IC Which is non synthesizable in nature.
@@ -22,4 +22,6 @@ and at the end of the Physical design life cycle.
 Then the further process is as follws:- GDSII -> DRC/LVS Checks -> fabrication    (tapeout to tapein)
 
 ![image alt]()
+
+Then after the fabrication we use that chip in microconreoller.
 
