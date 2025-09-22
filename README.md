@@ -23,5 +23,7 @@ Then the further process is as follws:- GDSII -> DRC/LVS Checks -> fabrication  
 
 ![image alt]()
 
+Here one thing that need to be care of is that in each step functionality and specification is same means O1=O2=O3=O4=O5
+
 Then after the fabrication we use that chip in microconreoller.
 
