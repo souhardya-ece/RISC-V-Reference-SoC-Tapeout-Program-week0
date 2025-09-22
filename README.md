@@ -37,8 +37,11 @@ Then after the fabrication we use that chip in microconreoller.
 ### System Check 
 
 6GB RAM
+
 50 GB HDD
+
 Ubuntu 20.04+
+
 4vCPU
 
 ### Tool check:-
